@@ -1,7 +1,3 @@
--- #@Saee_d_28
------my_name_is_ehsan*#@mafia_boy
------@Saee_d_28     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -412,7 +408,3 @@ function tdcli_update_callback (data)
 		tdcli_function ({ID="GetChats", offset_order_="9223372036854775807", offset_chat_id_=0, limit_=20}, dl_cb, nil)    
 	end
 end
-
------my_name_is_ehsan*#@mafia_boy
------@Saee_d_28     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
