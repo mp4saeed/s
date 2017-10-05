@@ -1,7 +1,3 @@
-﻿--Begin Utils.lua By #saeed_saee :)
------my_name_is_ehsan*#@mafia_boy
------@Saee_d_28     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
  local clock = os.clock
 function sleep(time)  -- seconds
   local t0 = clock()
@@ -890,7 +886,3 @@ else
          end
      return filterlist
    end
-
------my_name_is_ehsan*#@mafia_boy
------@Saee_d_28     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
